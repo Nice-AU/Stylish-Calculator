@@ -1,4 +1,4 @@
-**Graphing Calculator**
+**Stylish Calculator**
 
 ![Screenshot](https://i.imgur.com/Y46AseD.png)
 ![Screenshot](https://imgur.com/GTBtz0O.png)
@@ -6,6 +6,7 @@
 
 A JavaFX based, scientific & graphing calculator.
 
-Computation is handled by a recursive-descent parser, that builds abstract expression trees. Parser implementation was [adapted from public domain code](https://stackoverflow.com/questions/3422673/how-to-evaluate-a-math-expression-given-in-string-form) to include variable evaluation, and ahead-of-time compilation of the expression, expanded unary function support, and more.
+This project belonged to Jocelyn by Maven, but It's a modified project from me with Ant due to the enter key was not detected & due some more other issues, the jar exist in the Dist folder, you can take jar & call main class to use the calculator, you can update method signature to public method if issue exist, I may will update this project more while it's already my hard time given to modify it's.
 
-(c) Jocelyn Mallon, 2019
+
+(c) Nice Application 1 (Nice-AU)(NA0), 2023
